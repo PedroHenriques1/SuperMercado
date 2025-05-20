@@ -73,7 +73,6 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 - MySQL Server
 
 
-
 - IDE compatível (recomendado: IntelliJ ou Eclipse)
 
 ---
@@ -81,4 +80,23 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 ## 🚀 Como Executar
 
 1. Clone o repositório:
+
+2. Importe o projeto na sua IDE de preferência.
+
+3. Configure a conexão com o banco de dados MySQL.
+
+4. Execute a aplicação a partir da classe principal.
+
+---
+
+## 🤝 Contato
+
+Desenvolvido por **Pedro Henrique da Silva**  e **Jessica Neves**
+📧 [pedroxz024@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/) 
+
+📧 [jessicanesilva.14@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/jessica-neves-silva-0a8071287/) 
+
+
 
