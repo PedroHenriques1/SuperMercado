@@ -91,10 +91,12 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 
 ## 🤝 Contato
 
-Desenvolvido por **Pedro Henrique da Silva**  e **Jessica Neves**
+Desenvolvido por:
+**Pedro Henrique da Silva**
 📧 [pedroxz024@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-da-silva-4a18852a7/) 
 
+**Jessica Neves**
 📧 [jessicanesilva.14@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/jessica-neves-silva-0a8071287/) 
 
