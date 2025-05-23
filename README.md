@@ -32,10 +32,10 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 ![image](https://github.com/user-attachments/assets/7dcc3b9a-2248-4e4c-b5f8-887721650d84)
 
 
-# Classes das entidades (Produto, Vendedor, Venda, etc.)
-# Telas do sistema (Swing + JTable)
-# Lógica de negócio e manipulação de dados
-# Scripts SQL e classes de conexão JDBC
+- Classes das entidades (Produto, Vendedor, Venda, etc.)
+- Telas do sistema (Swing + JTable)
+- Lógica de negócio e manipulação de dados
+- Scripts SQL e classes de conexão JDBC
 
 ---
 
