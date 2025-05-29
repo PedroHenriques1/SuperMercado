@@ -15,18 +15,6 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 
 ---
 
-## 🎯 Funcionalidades
-
-- ✅ Cadastro, consulta, edição e exclusão de produtos
-- ✅ Área administrativa para gerenciamento de vendedores
-- ✅ Acesso dedicado para vendedores com permissões específicas
-- ✅ Controle de vendas com registro e histórico
-- ✅ Interface gráfica com **JTable** para exibição dinâmica dos dados
-- ✅ Sistema modular com separação clara de responsabilidades (MVC opcional)
-- ✅ Interface adaptável para diferentes tamanhos de tela e dispositivos
-
----
-
 ## 🧩 Estrutura do Projeto
 
 ![image](https://github.com/user-attachments/assets/7dcc3b9a-2248-4e4c-b5f8-887721650d84)
@@ -36,6 +24,18 @@ Este projeto é uma aplicação de gestão voltada para supermercados, desenvolv
 - Telas do sistema (Swing + JTable)
 - Lógica de negócio e manipulação de dados
 - Scripts SQL e classes de conexão JDBC
+
+---
+
+## 🎯 Funcionalidades
+
+- ✅ Cadastro, consulta, edição e exclusão de produtos
+- ✅ Área administrativa para gerenciamento de vendedores
+- ✅ Acesso dedicado para vendedores com permissões específicas
+- ✅ Controle de vendas com registro e histórico
+- ✅ Interface gráfica com **JTable** para exibição dinâmica dos dados
+- ✅ Sistema modular com separação clara de responsabilidades (MVC opcional)
+- ✅ Interface adaptável para diferentes tamanhos de tela e dispositivos
 
 ---
 
